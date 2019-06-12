@@ -1,1 +1,2 @@
-# mobyfoo.github.io
+# Initial page
+
